@@ -3,13 +3,13 @@ author: Stephanus Bagus Saputra; email: stephanusdai@icloud.com; visit: http://s
 
 Simple Application for Resizing Image
  
-# FEATURE
+## FEATURE
 1. Preview Image Form
 2. Stretch Image Processing
 3. Resize Image Processing
 4. Wrap Resize with Color Background
 
-# LOG VERSION
+## LOG VERSION
 
 Version 1.00
 * Published
