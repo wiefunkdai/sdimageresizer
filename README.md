@@ -9,9 +9,13 @@ Simple Application for Resizing Image
 3. Resize Image Processing
 4. Wrap Resize with Color Background
 
-Programing Language: C# Visual Studio
+## Programing Language: 
+C# Visual Studio
 
 ## LOG VERSION
 
-Version 1.00
+Programing Language:
+* C# Visual Studio
+
+Version 1.00:
 * Published
